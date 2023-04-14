@@ -1,0 +1,151 @@
+12 de março 2023
+01:00
+-até o min 38:31 da vídeo aula 1 está ok!
+
+
+01:41
+     *aplicar correção de importar css no html
+01:50
+     resolvido
+
+-parte 44:57 da vídeo aula 1 está ok!
+
+--------------------------------------------
+
+
+12 de março 2023 
+11:16
+-até min 47:50 da vídeo aula 1 está ok!
+     min 51:40 da vídeo aula 1 está ok!
+     *** até aqui temos finalizado a página de cadastro com a logo e a img background
+     min 53:45 da vídeo aula 1 está ok!
+     *** neste momento, os dados dentro da área de preenchimento de usuário foram redirecionados para a url 'cadastro'   <form action="/auth/cadastro/"...> no inspecionar
+     min 57:10 da vídeo aula 1 está ok!
+     *** neste momento, quando eu clico para registrar foi redirecionado para uma página "testando", onde foi feito as alterações em views.py
+     min 59:11 da vídeo aula 1 está ok!
+22:52
+-até min 1:09:15 da vídeo aula 1 está ok!
+     *** neste momento foi criado critérios para validação de senhas como: Caracteres em maiusculo e minusculo, quantidade minima de 6 caracteres e posuir letras e números.
+23:15
+-até min 1:17:15 da vídeo aula 1 está ok!
+     *** neste momento foi cadastrado usuário
+
+14 de março 2023 
+20:15
+-até min 1:24:50 da vídeo aula 1 está ok!
+     *** neste momento foi configurado as mensagens de erro.
+20:26
+-até min 1:27:48 da vídeo aula 1 está ok!
+     *** neste momento foi criado a página de login
+
+21:48
+-até min 1:38:38 da vídeo aula 1 está ok!
+     *** neste momento foi criado logout, verificar se o usuários já está logado antes de exibir logar e cadastro 
+
+15 de março 2023 
+19:15
+-até min 1:51:07 da vídeo aula 1 está ok!
+     *** neste momento foi criado envio de email para confirmação de cadastro  "smtp" 
+20:05
+-até min 1:51:07 da vídeo aula 1 está ok!
+
+21:00
+-finalizado vídeo 1
+
+
+
+
+***************************************************************************************************
+
+
+
+
+
+_______________________VIDEO AULA 2 _____________________________________________________________
+
+
+
+
+19 de março 2023
+
+
+-até min 11:59 da vídeo aula 2 está ok!
+*** neste momento foi criado nova pagina pacientes
+
+
+-até min 14:06 da vídeo aula 2 está ok!
+
+-até min 18:36 da vídeo aula 2 está ok!
+*** neste momento foi criado uma outra base html para manter padrão a barra lateral que será igual em todas as páginas
+
+-até min 20:12 da vídeo aula 2 está ok!
+
+-até min 26:39 da vídeo aula 2 está ok!
+*** neste momento foi criado e adicionado o arquivo css da barra lateral
+
+-até min 29:05 da vídeo aula 2 está ok!
+neste momento foram adicionados os arquivos .png para a pasta plataforma/img 
+
+20:10
+-até min 41:30 da vídeo aula 2 está ok!
+*** neste momento foram adicionados os arquivos .png para a pasta plataforma/img adicionado o botão e o modal para add novo paciente 
+
+-até min 44:52 da vídeo aula 2 está ok!
+*** neste momento foi adicionado a funcionalidade para o modal de preenchimento de dados do paciente, nome, sexo, idade, email cell
+-até min 58:15 da vídeo aula 2 está ok!
+
+-até min 1:06:45 da vídeo aula 2 está ok!
+
+*******************************************************************************************************************************
+20 de março 2023
+19:37
+até min 1:10:45 da vídeo aula 2 está ok!
+*** neste momento foi criado a pagina dados do paciente
+
+até min 1:17:45 da vídeo aula 2 está ok!
+
+
+até min 1:24:40 da vídeo aula 2 está ok!
+*** neste momento foi criado uma validação para que um nutricionista nao acesse dados de outro.
+
+até min 1:26:14 da vídeo aula 2 está ok!
+*** neste momento foi criado o modal do botão adicionar dados do paciente
+
+até min 1:37:28 da vídeo aula 2 está ok!
+
+
+até min 1:40:41 da vídeo aula 2 está ok!
+
+
+
+
+
+
+
+22 de março 2023
+até min 1:54:47 da vídeo aula 2 está ok!
+*** neste momento foi criado toda a configuração dos e aplicação do gráfico de peso
+
+
+
+_______________________VIDEO AULA 3 _____________________________________________________________
+
+
+
+
+
+22 de março 2023
+até min 16:47 da vídeo aula 3 está ok!
+até min 41:07 da vídeo aula 3 está ok!
+*** neste momento foi registrada a refeiçao
+
+
+24 de março 2023
+até min 43:13 da vídeo aula 3 está ok!
+até min 45:16 da vídeo aula 3 está ok!
+até min 47:10 da vídeo aula 3 está ok!
+até min 51:12 da vídeo aula 3 está ok!
+*** neste momento foi configurado nova opção
+
+até min 1:02:19 da vídeo aula 3 está ok!
+*** neste momento foi adicionado imagem em nova opção e add a url da img
